@@ -1,0 +1,10 @@
+{
+  "name": "trizzy-vercel",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.3",
+    "openai": "^4.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
